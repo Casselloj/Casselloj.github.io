@@ -4,11 +4,10 @@
 <!-- Code Review Video Section -->
 <div style="border:1px solid #ddd; padding:16px; margin:16px 0; border-radius:8px;">
   <h3>Code Review Video – Module 2</h3>
-  <p>Watch my CS 499 code review for Module 2:</p>
+  <p>Click the link below to download and watch my CS 499 Module 2 code review video:</p>
   <ul>
     <li>
-      <a href=["videos/CS%20499%20Code%20Review%20-%20Module%202_Cassello.mp4"](https://github.com/Casselloj/casselloj.github.io/raw/main/videos/CS%20499%20Code%20Review%20-%20Module%202_Cassello.mp4
-)>
+      <a href="https://github.com/Casselloj/casselloj.github.io/raw/main/videos/CS%20499%20Code%20Review%20-%20Module%202_Cassello.mp4">
         Download / Watch Video
       </a>
     </li>
