@@ -4,17 +4,17 @@
 <!-- Code Review Video Section -->
 <div style="border:1px solid #ddd; padding:16px; margin:16px 0; border-radius:8px;">
   <h3>Code Review Video – Module 2</h3>
-  <p>Click the link below to download and watch my CS 499 Module 2 code review video:</p>
-  <ul>
-    <li>
-      <a href="https://github.com/Casselloj/casselloj.github.io/raw/main/videos/CS%20499%20Code%20Review%20-%20Module%202_Cassello.mp4">
-        Download / Watch Video
-      </a>
-    </li>
-  </ul>
+  <p>Watch my CS 499 Module 2 code review video below:</p>
+  <iframe width="640" height="360" 
+          src="https://www.youtube.com/embed/xHA5_BJjZWI" 
+          title="CS 499 Code Review" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
 </div>
 
-<!-- Weight Tracking App Section -->
+<!-- Software Engineering and Design Section -->
 <div style="border:1px solid #ddd; padding:16px; margin:16px 0; border-radius:8px;">
   <h3>Software Engineering and Design – Weight Tracking App (CS 360)</h3>
 
