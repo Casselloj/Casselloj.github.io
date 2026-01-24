@@ -7,7 +7,7 @@
   <strong>Enhanced Artifact</strong>
   <ul>
     <li>
-      <a href="artifacts/WeightTrackingApp_CS%20499%20Enhanced%20Code_Cassello%20.zip">
+      <a href="artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip">
         Enhanced Weight Tracking App (ZIP)
       </a>
     </li>
@@ -27,6 +27,11 @@
     <li>
       <a href="documents/CS%20499%20Milestone%202_Cassello.pdf">
         CS 499 Milestone 2
+      </a>
+    </li>
+    <li>
+      <a href="documents/CS%20499%203-1%20Journal_Cassello.pdf">
+        CS 499 Module 3 Journal
       </a>
     </li>
   </ul>
