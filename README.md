@@ -1,64 +1,32 @@
-<h1>CS 499 – Computer Science ePortfolio</h1>
-<h2>Joseph Cassello Jr</h2>
+# CS 499 – Computer Science ePortfolio
+**Joseph Cassello Jr**
 
-<!-- Code Review Video Section -->
-<div style="border:1px solid #ddd; padding:16px; margin:16px 0; border-radius:8px;">
-  <h3>Code Review Video – Module 2</h3>
-  <p>Watch my CS 499 Module 2 code review video below:</p>
-  <iframe width="640" height="360" 
-          src="https://www.youtube.com/embed/xHA5_BJjZWI" 
-          title="CS 499 Code Review" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen>
-  </iframe>
-</div>
+---
 
-<!-- Software Engineering and Design Section -->
-<div style="border:1px solid #ddd; padding:16px; margin:16px 0; border-radius:8px;">
-  <h3>Software Engineering and Design – Weight Tracking App (CS 360)</h3>
+## Code Review Video – Module 2
+Watch my CS 499 Module 2 code review video:  
+[Click here to view](https://www.youtube.com/watch?v=xHA5_BJjZWI)
 
-  <strong>Enhanced Artifact</strong>
-  <ul>
-    <li>
-      <a href="artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip">
-        Enhanced Weight Tracking App (ZIP)
-      </a>
-    </li>
-  </ul>
+---
 
-  <strong>Original Version</strong>
-  <ul>
-    <li>
-      <a href="artifacts/WeightTrackingApp%20Original_Cassello.zip">
-        Original Weight Tracking App (ZIP)
-      </a>
-    </li>
-  </ul>
+## Software Engineering and Design – Weight Tracking App (CS 360)
 
-  <strong>Supporting Documentation</strong>
-  <ul>
-    <li>
-      <a href="documents/CS%20499%20Milestone%202_Cassello.pdf">
-        CS 499 Milestone 2
-      </a>
-    </li>
-    <li>
-      <a href="documents/CS%20499%203-1%20Journal_Cassello.pdf">
-        CS 499 Module 3 Journal
-      </a>
-    </li>
-  </ul>
-</div>
+**Enhanced Artifact**
+- [Enhanced Weight Tracking App (ZIP)](artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip)
 
-<!-- Algorithms Section -->
-<div style="border:1px solid #ddd; padding:16px; margin:16px 0; border-radius:8px;">
-  <h3>Algorithms and Data Structures – Binary Search Tree Lab (CS 300)</h3>
-  <p>Artifact and documentation coming soon.</p>
-</div>
+**Original Version**
+- [Original Weight Tracking App (ZIP)](artifacts/WeightTrackingApp%20Original_Cassello.zip)
 
-<!-- Databases Section -->
-<div style="border:1px solid #ddd; padding:16px; margin:16px 0; border-radius:8px;">
-  <h3>Databases – Animal Shelter Database (CS 340)</h3>
-  <p>Artifact and documentation coming soon.</p>
-</div>
+**Supporting Documentation**
+- [CS 499 Milestone 2](documents/CS%20499%20Milestone%202_Cassello.pdf)
+- [CS 499 Module 3 Journal](documents/CS%20499%203-1%20Journal_Cassello.pdf)
+
+---
+
+## Algorithms and Data Structures – Binary Search Tree Lab (CS 300)
+Artifact and documentation coming soon.
+
+---
+
+## Databases – Animal Shelter Database (CS 340)
+Artifact and documentation coming soon.
