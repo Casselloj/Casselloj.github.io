@@ -7,7 +7,8 @@
   <p>Watch my CS 499 code review for Module 2:</p>
   <ul>
     <li>
-      <a href="videos/CS%20499%20Code%20Review%20-%20Module%202_Cassello.mp4">
+      <a href=["videos/CS%20499%20Code%20Review%20-%20Module%202_Cassello.mp4"](https://github.com/Casselloj/casselloj.github.io/raw/main/videos/CS%20499%20Code%20Review%20-%20Module%202_Cassello.mp4
+)>
         Download / Watch Video
       </a>
     </li>
