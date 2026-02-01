@@ -24,7 +24,16 @@ Watch my CS 499 Module 2 code review video:
 ---
 
 ## Algorithms and Data Structures – Binary Search Tree Lab (CS 300)
-Artifact and documentation coming soon.
+
+**Enhanced Artifact**
+- [Binary Search Tree – Enhanced Code (ZIP)](artifacts/BinarySearchTree_Cassello%20-%20Enhanced%20Code.zip)
+
+**Original Artifact**
+- [Binary Search Tree – Original Code (ZIP)](artifacts/BinarySearchTree_Cassello%20-%20Original%20Code.zip)
+
+**Supporting Documentation**
+- [CS 499 Milestone 3](documents/CS%20499%20Milestone%203_Cassello.pdf)
+- [CS 499 Module 4 Journal](documents/CS%20499%204-1%20Journal_Cassello.pdf)
 
 ---
 
