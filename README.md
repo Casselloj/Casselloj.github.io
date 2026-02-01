@@ -14,7 +14,7 @@ Watch my CS 499 Module 2 code review video:
 **Enhanced Artifact**
 - [Enhanced Weight Tracking App (ZIP)](artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip)
 
-**Original Version**
+**Original Artifact**
 - [Original Weight Tracking App (ZIP)](artifacts/WeightTrackingApp%20Original_Cassello.zip)
 
 **Supporting Documentation**
