@@ -38,4 +38,14 @@ Watch my CS 499 Module 2 code review video:
 ---
 
 ## Databases – Animal Shelter Database (CS 340)
-Artifact and documentation coming soon.
+
+**Enhanced Artifact**
+- [Animal Shelter Database – Enhanced Code (ZIP)](artifacts/AnimalShelter_CS340_Enhanced_Code.zip)
+
+**Original Artifact**
+- [Animal Shelter Database – Original Code (ZIP)](artifacts/AnimalShelter_CS340_Original_Code.zip)
+
+**Supporting Documentation**
+- [CS 499 Milestone 4](documents/CS499_Milestone4_Cassello.pdf)
+- [CS 499 Module 5 Journal](documents/CS499_Module5_Journal_Cassello.pdf)
+
