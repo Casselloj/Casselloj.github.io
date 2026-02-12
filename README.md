@@ -1,3 +1,25 @@
+---
+layout: default
+---
+
+<!-- SNHU header -->
+<p align="center" style="font-weight:bold; font-size:1.2em; color:#002F6C; margin-bottom:5px;">
+SNHU
+</p>
+
+<!-- Main title -->
+<h1 align="center" style="color:#002F6C; margin-bottom:5px;">
+CS 499 ePortfolio
+</h1>
+
+<!-- Your name -->
+<h3 align="center" style="color:#F2A900; margin-top:0; margin-bottom:20px;">
+Joseph Cassello Jr
+</h3>
+
+<hr style="height:3px; background-color:#002F6C; border:none; width:60%; margin:20px auto;">
+
+<!-- Blank line to prevent header issues -->
 <br>
 
 ## Self-Assessment
@@ -19,12 +41,6 @@
 ### 1. Software Engineering & Design
 **Project:** Weight Tracking Application (CS 360)
 
-The Weight Tracking Application was originally developed in CS 360 to provide users with a mobile platform for monitoring health metrics and receiving automated notifications. I selected this artifact for my ePortfolio because it represents a complex mobile architecture that required significant modernization to meet industry standards. My original code was largely contained within a single activity, which created a cluttered and unorganized environment that was difficult to maintain. The primary enhancement involved refactoring the legacy code into the Model-View-ViewModel (MVVM) design pattern and integrating LiveData to manage UI states. This process significantly improved the application by decoupling the business logic from the activity lifecycle, which makes the software much more modular and professional.
-
-
-
-Reflecting on this process, the greatest challenge was managing the transition of data operations to a background thread to ensure a smooth user experience. This enhancement aligns with Course Outcome 3, which focuses on designing and evaluating computing solutions while managing design trade-offs. Moving to the MVVM pattern was a deliberate design choice that traded initial simplicity for long-term stability and better organization. By successfully refactoring this application, I proved my ability to implement industry-standard technical tools that deliver professional-quality software solutions while effectively managing the complexity of the software development lifecycle.
-
 | Resource | Access Link |
 | :--- | :--- |
 | **Enhanced Artifact** | [Download ZIP](artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip) |
@@ -32,16 +48,8 @@ Reflecting on this process, the greatest challenge was managing the transition o
 | **Milestone Documentation** | [Review PDF](documents/CS%20499%20Milestone%202_Cassello.pdf) |
 | **Reflection Journal** | [Review PDF](documents/CS%20499%203-1%20Journal_Cassello.pdf) |
 
----
-
 ### 2. Algorithms & Data Structures
 **Project:** Binary Search Tree Lab (CS 300)
-
-The Binary Search Tree Lab from CS 300 served as the foundation for my work in algorithms and data structures. This project originally managed large datasets of over twelve thousand municipal bid records using a basic tree structure. I chose to include this artifact because it perfectly demonstrates the trade-offs involved in algorithmic design and the importance of optimization. The enhancement converted the standard Binary Search Tree into a self-balancing AVL Tree. This change was critical because it ensures that the search time remains at logarithmic complexity even if the input data is already sorted, preventing the performance bottlenecks that occur when a tree becomes skewed or unbalanced.
-
-
-
-During the enhancement process, I learned how to implement complex rotation logic to maintain tree height after every insertion. This project supports Course Outcome 3 because I designed a computing solution based on algorithmic principles while managing performance trade-offs between insertion speed and search efficiency. It also aligns with Course Outcome 4, as I utilized advanced self-balancing techniques to ensure the software stays fast and meets the high-performance standards expected in a professional government or business environment. The resulting tree is a more robust and production-ready data structure that adheres to the highest industry standards for data scalability.
 
 | Resource | Access Link |
 | :--- | :--- |
@@ -50,16 +58,8 @@ During the enhancement process, I learned how to implement complex rotation logi
 | **Milestone Documentation** | [Review PDF](documents/CS%20499%20Milestone%203_Cassello.pdf) |
 | **Reflection Journal** | [Review PDF](documents/CS%20499%204-1%20Journal_Cassello.pdf) |
 
----
-
 ### 3. Database Management
 **Project:** Animal Shelter Database (CS 340)
-
-The Animal Shelter Database was originally a Python script from CS 340 that allowed for basic CRUD operations within a MongoDB environment for a client named Grazioso Salvare. I selected this project because it provided the best opportunity to showcase a security-first mindset while expanding a local tool into a full-stack web service. The enhancement involved building a RESTful Web API using the Flask framework. This allows external stakeholders to interact with the shelter data through standard HTTP methods like GET and POST, greatly increasing the utility and accessibility of the database for organizational decision-making over a network.
-
-
-
-The most important part of this enhancement was the implementation of a rigorous security validation layer. By sanitizing all incoming JSON requests and checking for missing or negative values, I addressed potential vulnerabilities and ensured the privacy of the database resources. This project aligns with Course Outcome 5, which focuses on developing a security mindset to mitigate design flaws and ensure the security of data. It also aligns with Course Outcome 4, because I used well-founded techniques like building a REST API to deliver a computer solution that provides real-world value and follows modern industry standards for database communication.
 
 | Resource | Access Link |
 | :--- | :--- |
@@ -69,3 +69,7 @@ The most important part of this enhancement was the implementation of a rigorous
 | **Reflection Journal** | [Review PDF](documents/CS499_Module5_Journal_Cassello.pdf) |
 
 ---
+
+<div align="right">
+  <i>Final Project Submission - CS 499</i>
+</div>
