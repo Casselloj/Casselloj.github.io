@@ -1,5 +1,3 @@
-<hr style="height:3px; background-color:#002F6C; border:none; width:60%; margin:20px auto;">
-
 ## Self-Assessment
 
 *coming soon*
