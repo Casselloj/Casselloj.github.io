@@ -1,11 +1,19 @@
-<div align="center">
+<div style="text-align:center; padding: 20px 0;">
 
-# CS 499 ePortfolio
-## Joseph Cassello Jr
+<h1 style="color:#002F6C; margin-bottom:5px;">
+CS 499 ePortfolio
+</h1>
 
----
+<h3 style="color:#F2A900; margin-top:0;">
+Joseph Cassello Jr
+</h3>
 
-### Executive Summary
+<hr style="height:3px; background-color:#002F6C; border:none; width:60%; margin:20px auto;">
+
+</div>
+
+## Executive Summary
+
 Welcome to my Senior Capstone ePortfolio. This collection represents the culmination of my Bachelor’s in Computer Science, highlighting refined engineering practices, algorithmic optimization, and robust database architecture.
 
 ---
