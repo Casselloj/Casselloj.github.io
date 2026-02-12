@@ -1,25 +1,3 @@
----
-layout: default
----
-
-<!-- SNHU header -->
-<p align="center" style="font-weight:bold; font-size:1.2em; color:#002F6C; margin-bottom:5px;">
-SNHU
-</p>
-
-<!-- Main title -->
-<h1 align="center" style="color:#002F6C; margin-bottom:5px;">
-CS 499 ePortfolio
-</h1>
-
-<!-- Your name -->
-<h3 align="center" style="color:#F2A900; margin-top:0; margin-bottom:20px;">
-Joseph Cassello Jr
-</h3>
-
-<hr style="height:3px; background-color:#002F6C; border:none; width:60%; margin:20px auto;">
-
-<!-- Blank line to prevent header issues -->
 <br>
 
 ## Self-Assessment
