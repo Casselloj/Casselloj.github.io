@@ -1,18 +1,16 @@
 <div align="center">
 
-# CS 499 ePortfolio
-### Joseph Cassello Jr
-
-![Header](https://capsule-render.vercel.app/render?type=rect&color=2c3e50&height=150&text=CS%20499%20ePortfolio&fontSize=50&fontColor=f1c40f&desc=Joseph%20Cassello%20Jr&descSize=20&descAlignY=70)
+# <span style="color:#2c3e50">CS 499 ePortfolio</span>
+## <span style="color:#2c3e50">Joseph Cassello Jr</span>
 
 ---
 
-## Executive Summary
+### Executive Summary
 Welcome to my Senior Capstone ePortfolio. This collection represents the culmination of my Bachelor’s in Computer Science, highlighting refined engineering practices, algorithmic optimization, and robust database architecture.
 
 ---
 
-## Professional Code Review 
+### Professional Code Review 
 
 [![Click to Watch](https://img.shields.io/badge/CLICK_TO_WATCH-Video_Review-f1c40f?style=for-the-badge&logo=youtube&logoColor=2c3e50&labelColor=2c3e50)](https://www.youtube.com/watch?v=xHA5_BJjZWI)
 
@@ -22,11 +20,10 @@ Welcome to my Senior Capstone ePortfolio. This collection represents the culmina
 
 </div>
 
-## Project Categories
+# <span style="color:#2c3e50">Project Categories</span>
 
-### 1. Software Engineering & Design
+## <span style="color:#b8860b">1. Software Engineering & Design</span>
 **Project:** Weight Tracking Application (CS 360)  
-![Progress](https://geps.dev/progress/100?dangerColor=2c3e50&warningColor=2c3e50&successColor=f1c40f)
 
 | Resource | Access Link |
 | :--- | :--- |
@@ -37,9 +34,8 @@ Welcome to my Senior Capstone ePortfolio. This collection represents the culmina
 
 ---
 
-### 2. Algorithms & Data Structures
+## <span style="color:#b8860b">2. Algorithms & Data Structures</span>
 **Project:** Binary Search Tree Lab (CS 300)  
-![Progress](https://geps.dev/progress/100?dangerColor=2c3e50&warningColor=2c3e50&successColor=f1c40f)
 
 | Resource | Access Link |
 | :--- | :--- |
@@ -50,9 +46,8 @@ Welcome to my Senior Capstone ePortfolio. This collection represents the culmina
 
 ---
 
-### 3. Database Management
+## <span style="color:#b8860b">3. Database Management</span>
 **Project:** Animal Shelter Database (CS 340)  
-![Progress](https://geps.dev/progress/100?dangerColor=2c3e50&warningColor=2c3e50&successColor=f1c40f)
 
 | Resource | Access Link |
 | :--- | :--- |
