@@ -19,11 +19,11 @@
 ### 1. Software Engineering & Design
 **Project:** Weight Tracking Application (CS 360)
 
-The Weight Tracking Application was originally developed in CS 360 to provide users with a mobile platform for monitoring health metrics and receiving automated notifications. I selected this artifact for my ePortfolio because it represents a complex mobile architecture that required significant modernization to meet industry standards. The primary enhancement involved refactoring the legacy code into the Model-View-ViewModel (MVVM) design pattern and integrating LiveData to manage UI states. This process significantly improved the application by decoupling the business logic from the activity lifecycle, which makes the software much easier to maintain and test.
+The Weight Tracking Application was originally developed in CS 360 to provide users with a mobile platform for monitoring health metrics and receiving automated notifications. I selected this artifact for my ePortfolio because it represents a complex mobile architecture that required significant modernization to meet industry standards. My original code was largely contained within a single activity, which created a cluttered and unorganized environment that was difficult to maintain. The primary enhancement involved refactoring the legacy code into the Model-View-ViewModel (MVVM) design pattern and integrating LiveData to manage UI states. This process significantly improved the application by decoupling the business logic from the activity lifecycle, which makes the software much more modular and professional.
 
 
 
-Reflecting on this process, the greatest challenge was managing the transition of data operations to a background thread to ensure a smooth user experience. This enhancement allowed me to demonstrate mastery of Course Outcome 1 by building a modular environment and Course Outcome 4 by utilizing innovative mobile development tools. By successfully refactoring this application, I proved my ability to implement industry-standard technical tools that deliver professional-quality software solutions.
+Reflecting on this process, the greatest challenge was managing the transition of data operations to a background thread to ensure a smooth user experience without UI freezing. This enhancement allowed me to demonstrate mastery of Course Outcome 1 by building a modular environment and Course Outcome 4 by utilizing innovative mobile development tools. By successfully refactoring this application from a single activity layout into a structured architectural pattern, I proved my ability to implement industry-standard technical tools that deliver professional-quality software solutions that are easy to test and update.
 
 | Resource | Access Link |
 | :--- | :--- |
@@ -37,11 +37,11 @@ Reflecting on this process, the greatest challenge was managing the transition o
 ### 2. Algorithms & Data Structures
 **Project:** Binary Search Tree Lab (CS 300)
 
-The Binary Search Tree Lab from CS 300 served as the foundation for my work in algorithms and data structures. This project originally managed large datasets of course information using a basic tree structure. I chose to include this artifact because it perfectly demonstrates the trade-offs involved in algorithmic design. The enhancement converted the standard Binary Search Tree into a self-balancing AVL Tree. This change was critical because it ensures that the search time remains at $O(\log n)$ even as the dataset grows, preventing the performance bottlenecks that occur when a tree becomes skewed or unbalanced.
+The Binary Search Tree Lab from CS 300 served as the foundation for my work in algorithms and data structures. This project originally managed large datasets of over twelve thousand municipal bid records using a basic tree structure. I chose to include this artifact because it perfectly demonstrates the trade-offs involved in algorithmic design and the importance of optimization. The enhancement converted the standard Binary Search Tree into a self-balancing AVL Tree. This change was critical because it ensures that the search time remains at logarithmic complexity even if the input data is already sorted, preventing the performance bottlenecks that occur when a tree becomes skewed.
 
 
 
-During the enhancement process, I learned how to implement complex rotation logic to maintain tree height after every insertion and deletion. This required a deep dive into memory management and computational logic to ensure the solution was both stable and efficient. This project fulfills Course Outcome 3, as it required me to evaluate a computing problem and implement a solution based on well-founded computer science practices. The resulting tree is a more robust and professional data structure that adheres to the highest industry standards for efficiency.
+During the enhancement process, I learned how to implement complex rotation logic to maintain tree height after every insertion. This required a deep dive into recursive functions and memory management to ensure the solution was both stable and efficient. This project fulfills Course Outcome 3, as it required me to evaluate a computing problem and implement a solution based on well-founded computer science practices while managing the trade-offs of initial complexity versus long-term performance. The resulting tree is a more robust and production-ready data structure that adheres to high industry standards for scalability.
 
 | Resource | Access Link |
 | :--- | :--- |
@@ -55,11 +55,11 @@ During the enhancement process, I learned how to implement complex rotation logi
 ### 3. Database Management
 **Project:** Animal Shelter Database (CS 340)
 
-The Animal Shelter Database was originally a Python script from CS 340 that allowed for basic CRUD operations within a MongoDB environment. I selected this project because it provided the best opportunity to showcase a security-first mindset while expanding a local tool into a full-stack web service. The enhancement involved building a RESTful Web API using the Flask framework. This allows external stakeholders to interact with the shelter data through standard HTTP methods like GET and POST, greatly increasing the utility of the database for organizational decision-making.
+The Animal Shelter Database was originally a Python script from CS 340 that allowed for basic CRUD operations within a MongoDB environment for a client named Grazioso Salvare. I selected this project because it provided the best opportunity to showcase a security-first mindset while expanding a local tool into a full-stack web service. The enhancement involved building a RESTful Web API using the Flask framework. This allows external stakeholders to interact with the shelter data through standard HTTP methods like GET and POST, greatly increasing the utility and accessibility of the database for organizational decision-making over a network.
 
 
 
-The most important part of this enhancement was the implementation of a security validation layer. By sanitizing all incoming data, I addressed potential vulnerabilities such as NoSQL injection and ensured the privacy of the resources. This aligns directly with Course Outcome 5, which emphasizes developing a security mindset to mitigate design flaws. Incorporating these advanced database concepts and security standards demonstrates my growth as a developer who can deliver secure and valuable computer solutions for real-world scenarios.
+The most important part of this enhancement was the implementation of a rigorous security validation layer. By sanitizing all incoming JSON requests and checking for missing or negative values, I addressed potential vulnerabilities and ensured the privacy of the database resources. This aligns directly with Course Outcome 5, which emphasizes developing a security mindset to mitigate design flaws. Incorporating these advanced database concepts and security standards demonstrates my growth as a developer who can deliver secure and innovative computer solutions that follow industry-standard practices.
 
 | Resource | Access Link |
 | :--- | :--- |
