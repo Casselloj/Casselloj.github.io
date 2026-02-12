@@ -35,10 +35,10 @@ Reflecting on this process, the greatest challenge was managing the transition o
 
 | Resource | Access Link |
 | :--- | :--- |
-| **Enhanced Artifact** | [Download ZIP](artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip) |
-| **Original Source** | [Download ZIP](artifacts/WeightTrackingApp%20Original_Cassello.zip) |
-| **Milestone Documentation** | [Review PDF](documents/CS%20499%20Milestone%202_Cassello.pdf) |
-| **Reflection Journal** | [Review PDF](documents/CS%20499%203-1%20Journal_Cassello.pdf) |
+| **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-FFB81C?style=for-the-badge&logo=github&logoColor=003087)](artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip) |
+| **Original Source** | [![Download ZIP](https://img.shields.io/badge/ORIGINAL-ZIP-B0B0B0?style=for-the-badge&logo=github&logoColor=white)](artifacts/WeightTrackingApp%20Original_Cassello.zip) |
+| **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS%20499%20Milestone%202_Cassello.pdf) |
+| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS%20499%203-1%20Journal_Cassello.pdf) |
 
 ---
 
@@ -53,10 +53,10 @@ During the enhancement process, I learned how to implement complex rotation logi
 
 | Resource | Access Link |
 | :--- | :--- |
-| **Enhanced Artifact** | [Download ZIP](artifacts/BinarySearchTree_Cassello%20-%20Enhanced%20Code.zip) |
-| **Original Source** | [Download ZIP](artifacts/BinarySearchTree_Cassello%20-%20Original%20Code.zip) |
-| **Milestone Documentation** | [Review PDF](documents/CS%20499%20Milestone%203_Cassello.pdf) |
-| **Reflection Journal** | [Review PDF](documents/CS%20499%204-1%20Journal_Cassello.pdf) |
+| **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-FFB81C?style=for-the-badge&logo=github&logoColor=003087)](artifacts/BinarySearchTree_Cassello%20-%20Enhanced%20Code.zip) |
+| **Original Source** | [![Download ZIP](https://img.shields.io/badge/ORIGINAL-ZIP-B0B0B0?style=for-the-badge&logo=github&logoColor=white)](artifacts/BinarySearchTree_Cassello%20-%20Original%20Code.zip) |
+| **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS%20499%20Milestone%203_Cassello.pdf) |
+| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS%20499%204-1%20Journal_Cassello.pdf) |
 
 ---
 
@@ -71,27 +71,15 @@ The most important part of this enhancement was the implementation of a rigorous
 
 | Resource | Access Link |
 | :--- | :--- |
-| **Enhanced Artifact** | [Download ZIP](artifacts/AnimalShelter_CS340_Enhanced_Code.zip) |
-| **Original Source** | [Download ZIP](artifacts/AnimalShelter_CS340_Original_Code.zip) |
-| **Milestone Documentation** | [Review PDF](documents/CS499_Milestone4_Cassello.pdf) |
-| **Reflection Journal** | [Review PDF](documents/CS499_Module5_Journal_Cassello.pdf) |
+| **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-FFB81C?style=for-the-badge&logo=github&logoColor=003087)](artifacts/AnimalShelter_CS340_Enhanced_Code.zip) |
+| **Original Source** | [![Download ZIP](https://img.shields.io/badge/ORIGINAL-ZIP-B0B0B0?style=for-the-badge&logo=github&logoColor=white)](artifacts/AnimalShelter_CS340_Original_Code.zip) |
+| **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS499_Milestone4_Cassello.pdf) |
+| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS499_Module5_Journal_Cassello.pdf) |
 
 ---
 
-<!-- Bottom Right GitHub Link -->
-<a href="https://github.com/Casselloj" 
-   target="_blank"
-   style="
-      position: fixed;
-      bottom: 15px;
-      right: 20px;
-      font-weight: bold;
-      color: #002F6C;
-      text-decoration: none;
-      background-color: #F2F2F2;
-      padding: 8px 14px;
-      border-radius: 8px;
-      box-shadow: 0px 2px 6px rgba(0,0,0,0.2);
-   ">
-   View My GitHub →
+<div align="right">
+<a href="https://github.com/Casselloj" target="_blank" style="font-weight: bold; color: #003087; text-decoration: none; background-color: #F2F2F2; padding: 8px 14px; border-radius: 8px; box-shadow: 0px 2px 6px rgba(0,0,0,0.2);">
+View My GitHub →
 </a>
+</div>
