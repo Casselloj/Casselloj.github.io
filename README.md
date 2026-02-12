@@ -64,6 +64,3 @@ Joseph Cassello Jr
 
 ---
 
-<div align="right">
-  <i>Final Project Submission - CS 499</i>
-</div>
