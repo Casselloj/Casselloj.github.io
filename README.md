@@ -23,7 +23,7 @@ The Weight Tracking Application was originally developed in CS 360 to provide us
 
 
 
-Reflecting on this process, the greatest challenge was managing the transition of data operations to a background thread to ensure a smooth user experience without UI freezing. This enhancement allowed me to demonstrate mastery of Course Outcome 1 by building a modular environment and Course Outcome 4 by utilizing innovative mobile development tools. By successfully refactoring this application from a single activity layout into a structured architectural pattern, I proved my ability to implement industry-standard technical tools that deliver professional-quality software solutions that are easy to test and update.
+Reflecting on this process, the greatest challenge was managing the transition of data operations to a background thread to ensure a smooth user experience. This enhancement aligns with Course Outcome 3, which focuses on designing and evaluating computing solutions while managing design trade-offs. Moving to the MVVM pattern was a deliberate design choice that traded initial simplicity for long-term stability and better organization. By successfully refactoring this application, I proved my ability to implement industry-standard technical tools that deliver professional-quality software solutions while effectively managing the complexity of the software development lifecycle.
 
 | Resource | Access Link |
 | :--- | :--- |
@@ -37,11 +37,11 @@ Reflecting on this process, the greatest challenge was managing the transition o
 ### 2. Algorithms & Data Structures
 **Project:** Binary Search Tree Lab (CS 300)
 
-The Binary Search Tree Lab from CS 300 served as the foundation for my work in algorithms and data structures. This project originally managed large datasets of over twelve thousand municipal bid records using a basic tree structure. I chose to include this artifact because it perfectly demonstrates the trade-offs involved in algorithmic design and the importance of optimization. The enhancement converted the standard Binary Search Tree into a self-balancing AVL Tree. This change was critical because it ensures that the search time remains at logarithmic complexity even if the input data is already sorted, preventing the performance bottlenecks that occur when a tree becomes skewed.
+The Binary Search Tree Lab from CS 300 served as the foundation for my work in algorithms and data structures. This project originally managed large datasets of over twelve thousand municipal bid records using a basic tree structure. I chose to include this artifact because it perfectly demonstrates the trade-offs involved in algorithmic design and the importance of optimization. The enhancement converted the standard Binary Search Tree into a self-balancing AVL Tree. This change was critical because it ensures that the search time remains at logarithmic complexity even if the input data is already sorted, preventing the performance bottlenecks that occur when a tree becomes skewed or unbalanced.
 
 
 
-During the enhancement process, I learned how to implement complex rotation logic to maintain tree height after every insertion. This required a deep dive into recursive functions and memory management to ensure the solution was both stable and efficient. This project fulfills Course Outcome 3, as it required me to evaluate a computing problem and implement a solution based on well-founded computer science practices while managing the trade-offs of initial complexity versus long-term performance. The resulting tree is a more robust and production-ready data structure that adheres to high industry standards for scalability.
+During the enhancement process, I learned how to implement complex rotation logic to maintain tree height after every insertion. This project supports Course Outcome 3 because I designed a computing solution based on algorithmic principles while managing performance trade-offs between insertion speed and search efficiency. It also aligns with Course Outcome 4, as I utilized advanced self-balancing techniques to ensure the software stays fast and meets the high-performance standards expected in a professional government or business environment. The resulting tree is a more robust and production-ready data structure that adheres to the highest industry standards for data scalability.
 
 | Resource | Access Link |
 | :--- | :--- |
@@ -59,7 +59,7 @@ The Animal Shelter Database was originally a Python script from CS 340 that allo
 
 
 
-The most important part of this enhancement was the implementation of a rigorous security validation layer. By sanitizing all incoming JSON requests and checking for missing or negative values, I addressed potential vulnerabilities and ensured the privacy of the database resources. This aligns directly with Course Outcome 5, which emphasizes developing a security mindset to mitigate design flaws. Incorporating these advanced database concepts and security standards demonstrates my growth as a developer who can deliver secure and innovative computer solutions that follow industry-standard practices.
+The most important part of this enhancement was the implementation of a rigorous security validation layer. By sanitizing all incoming JSON requests and checking for missing or negative values, I addressed potential vulnerabilities and ensured the privacy of the database resources. This project aligns with Course Outcome 5, which focuses on developing a security mindset to mitigate design flaws and ensure the security of data. It also aligns with Course Outcome 4, because I used well-founded techniques like building a REST API to deliver a computer solution that provides real-world value and follows modern industry standards for database communication.
 
 | Resource | Access Link |
 | :--- | :--- |
