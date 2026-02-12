@@ -77,3 +77,21 @@ The most important part of this enhancement was the implementation of a rigorous
 | **Reflection Journal** | [Review PDF](documents/CS499_Module5_Journal_Cassello.pdf) |
 
 ---
+
+<!-- Bottom Right GitHub Link -->
+<a href="https://github.com/Casselloj" 
+   target="_blank"
+   style="
+      position: fixed;
+      bottom: 15px;
+      right: 20px;
+      font-weight: bold;
+      color: #002F6C;
+      text-decoration: none;
+      background-color: #F2F2F2;
+      padding: 8px 14px;
+      border-radius: 8px;
+      box-shadow: 0px 2px 6px rgba(0,0,0,0.2);
+   ">
+   View My GitHub →
+</a>
