@@ -1,16 +1,3 @@
-<!-- Top Section -->
-<div style="text-align:center; padding: 20px 0;">
-
-  <h1 style="color:#002F6C; margin-bottom:5px;">
-    CS 499 ePortfolio
-  </h1>
-
-  <h2 style="color:#F2A900; margin-top:0;">
-    Joseph Cassello Jr
-  </h2>
-
-</div>
-
 <hr style="height:3px; background-color:#002F6C; border:none; width:60%; margin:20px auto;">
 
 ## Self-Assessment
