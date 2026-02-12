@@ -60,5 +60,3 @@
 | **Reflection Journal** | [Review PDF](documents/CS499_Module5_Journal_Cassello.pdf) |
 
 ---
-
-_Final Project Submission - CS 499_
