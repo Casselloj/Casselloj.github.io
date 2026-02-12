@@ -16,7 +16,7 @@ The artifacts presented in this portfolio represent a cohesive summary of my com
 
 ## Professional Code Review
 
-[![Click to Watch](https://img.shields.io/badge/CLICK_TO_WATCH-Video_Review-003087?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/embed/xHA5_BJjZWI?start=0)
+[![Click to Watch](https://img.shields.io/badge/CLICK_TO_WATCH-Video_Review-FFB81C?style=for-the-badge&logo=youtube&logoColor=003087)](https://www.youtube.com/embed/xHA5_BJjZWI?start=0)
 
 *A walkthrough of the original codebase and the logic behind the planned enhancements.*
 
@@ -35,10 +35,10 @@ Reflecting on this process, the greatest challenge was managing the transition o
 
 | Resource | Access Link |
 | :--- | :--- |
-| **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-003087?style=for-the-badge&logo=github&logoColor=white)](artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip) |
+| **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-FFB81C?style=for-the-badge&logo=github&logoColor=003087)](artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip) |
 | **Original Source** | [![Original ZIP](https://img.shields.io/badge/ORIGINAL-ZIP-003087?style=for-the-badge&logo=github&logoColor=white)](artifacts/WeightTrackingApp%20Original_Cassello.zip) |
 | **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS%20499%20Milestone%202_Cassello.pdf) |
-| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS%20499%203-1%20Journal_Cassello.pdf) |
+| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-FFB81C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=003087)](documents/CS%20499%203-1%20Journal_Cassello.pdf) |
 
 ---
 
@@ -53,10 +53,10 @@ During the enhancement process, I learned how to implement complex rotation logi
 
 | Resource | Access Link |
 | :--- | :--- |
-| **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-003087?style=for-the-badge&logo=github&logoColor=white)](artifacts/BinarySearchTree_Cassello%20-%20Enhanced%20Code.zip) |
+| **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-FFB81C?style=for-the-badge&logo=github&logoColor=003087)](artifacts/BinarySearchTree_Cassello%20-%20Enhanced%20Code.zip) |
 | **Original Source** | [![Original ZIP](https://img.shields.io/badge/ORIGINAL-ZIP-003087?style=for-the-badge&logo=github&logoColor=white)](artifacts/BinarySearchTree_Cassello%20-%20Original%20Code.zip) |
 | **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS%20499%20Milestone%203_Cassello.pdf) |
-| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS%20499%204-1%20Journal_Cassello.pdf) |
+| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-FFB81C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=003087)](documents/CS%20499%204-1%20Journal_Cassello.pdf) |
 
 ---
 
@@ -71,10 +71,10 @@ The most important part of this enhancement was the implementation of a rigorous
 
 | Resource | Access Link |
 | :--- | :--- |
-| **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-003087?style=for-the-badge&logo=github&logoColor=white)](artifacts/AnimalShelter_CS340_Enhanced_Code.zip) |
+| **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-FFB81C?style=for-the-badge&logo=github&logoColor=003087)](artifacts/AnimalShelter_CS340_Enhanced_Code.zip) |
 | **Original Source** | [![Original ZIP](https://img.shields.io/badge/ORIGINAL-ZIP-003087?style=for-the-badge&logo=github&logoColor=white)](artifacts/AnimalShelter_CS340_Original_Code.zip) |
 | **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS499_Milestone4_Cassello.pdf) |
-| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](documents/CS499_Module5_Journal_Cassello.pdf) |
+| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-FFB81C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=003087)](documents/CS499_Module5_Journal_Cassello.pdf) |
 
 ---
 
