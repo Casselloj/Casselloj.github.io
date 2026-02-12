@@ -8,7 +8,7 @@
 
 ## Professional Code Review
 
-[![Click to Watch](https://img.shields.io/badge/CLICK_TO_WATCH-Video_Review-D4AF37?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2C3E50)](https://www.youtube.com/watch?v=xHA5_BJjZWI?t=0)
+[![Click to Watch](https://img.shields.io/badge/CLICK_TO_WATCH-Video_Review-D4AF37?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2C3E50)](https://www.youtube.com/embed/xHA5_BJjZWI?start=0)
 
 *A walkthrough of the original codebase and the logic behind the planned enhancements.*
 
