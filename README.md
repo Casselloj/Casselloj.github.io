@@ -12,9 +12,9 @@ Joseph Cassello Jr
 
 </div>
 
-## Executive Summary
+## Self-Assessment
 
-Welcome to my Senior Capstone ePortfolio. This collection represents the culmination of my Bachelor’s in Computer Science, highlighting refined engineering practices, algorithmic optimization, and robust database architecture.
+*coming soon*
 
 ---
 
@@ -22,11 +22,9 @@ Welcome to my Senior Capstone ePortfolio. This collection represents the culmina
 
 [![Click to Watch](https://img.shields.io/badge/CLICK_TO_WATCH-Video_Review-D4AF37?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2C3E50)](https://www.youtube.com/watch?v=xHA5_BJjZWI)
 
-*A comprehensive walkthrough of the original codebase and the logic behind the planned enhancements.*
+*A walkthrough of the original codebase and the logic behind the planned enhancements.*
 
 ---
-
-</div>
 
 # Project Categories
 
