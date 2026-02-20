@@ -35,8 +35,8 @@ Reflecting on this process, the greatest challenge was managing the transition o
 | :--- | :--- |
 | **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-003087?style=for-the-badge&logo=github&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/artifacts/WeightTrackingApp_CS499_Enhanced_Code_Cassello.zip) |
 | **Original Source** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-003087?style=for-the-badge&logo=github&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/artifacts/WeightTrackingApp%20Original_Cassello.zip) |
-| **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/documents/CS%20499%20Milestone%202_Cassello.pdf) |
-| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/documents/CS%20499%203-1%20Journal_Cassello.pdf) |
+| **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](documents/CS%20499%20Milestone%202_Cassello.pdf) |
+| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](documents/CS%20499%203-1%20Journal_Cassello.pdf) |
 
 ---
 
@@ -51,8 +51,8 @@ During the enhancement process, I learned how to implement complex rotation logi
 | :--- | :--- |
 | **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-003087?style=for-the-badge&logo=github&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/artifacts/BinarySearchTree_Cassello%20-%20Enhanced%20Code.zip) |
 | **Original Source** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-003087?style=for-the-badge&logo=github&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/artifacts/BinarySearchTree_Cassello%20-%20Original%20Code.zip) |
-| **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/documents/CS%20499%20Milestone%203_Cassello.pdf) |
-| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/documents/CS%20499%204-1%20Journal_Cassello.pdf) |
+| **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](documents/CS%20499%20Milestone%203_Cassello.pdf) |
+| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](documents/CS%20499%204-1%20Journal_Cassello.pdf) |
 
 ---
 
@@ -67,8 +67,8 @@ The most important part of this enhancement was the implementation of a rigorous
 | :--- | :--- |
 | **Enhanced Artifact** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-003087?style=for-the-badge&logo=github&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/artifacts/AnimalShelter_CS340_Enhanced_Code.zip) |
 | **Original Source** | [![Download ZIP](https://img.shields.io/badge/DOWNLOAD-ZIP-003087?style=for-the-badge&logo=github&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/artifacts/AnimalShelter_CS340_Original_Code.zip) |
-| **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/documents/CS499_Milestone4_Cassello.pdf) |
-| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](https://github.com/Casselloj/Casselloj.github.io/blob/main/documents/CS499_Module5_Journal_Cassello.pdf) |
+| **Milestone Documentation** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](documents/CS499_Milestone4_Cassello.pdf) |
+| **Reflection Journal** | [![Review PDF](https://img.shields.io/badge/REVIEW-PDF-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FFB81C)](documents/CS499_Module5_Journal_Cassello.pdf) |
 
 ---
 
